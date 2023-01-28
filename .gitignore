@@ -1,3 +1,7 @@
 #
 # Ignore Directories
 dependencies/
+bin/
+include/
+lib/
+share/

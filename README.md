@@ -2,7 +2,7 @@
 PySpace
 ---
 
-PySpacce is aimed to create a simple Isolated python development environment.
+PySpace is aimed to create a simple Isolated python development environment.
 Note: Currently supports only the version `3.7.16`, can be changed by modifying the `install_python.sh` script.
 
 #### Installation:
